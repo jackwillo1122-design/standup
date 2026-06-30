@@ -1,0 +1,11 @@
+{
+  "name": "standup",
+  "version": "0.1.0",
+  "private": true,
+  "description": "AI meeting-notes & action tracker",
+  "scripts": {
+    "dev": "echo \"set up your dev server\"",
+    "build": "echo \"set up your build\""
+  },
+  "license": "UNLICENSED"
+}
